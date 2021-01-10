@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# excluding app.js backend file for security reasons
+/backend/app.js
